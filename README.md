@@ -25,7 +25,8 @@ The 'gdb023' (atliq_hardware_db) database was provided to me to work on and it i
 
 Here is the Data Model that I have created in Power BI for the Visualization part -
 
-![ad hoc data model](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/39b5a324-e928-44ab-802b-53afa47eb0ae)
+![32](https://github.com/user-attachments/assets/a848ec57-3a9f-4d98-9360-11e8b2f2875e)
+
 
 
 **Tools used -** 
