@@ -9,7 +9,8 @@ However, Tony Sharma (Data Analytics Director ) wants to expand their data analy
 
 Now the company wants insights for 10 ad hoc / business requests.
 
-This project is part of the data analytics boot camp at codebasics.
+This project is part of the data analyt
+ics boot camp at codebasics.
 
 ## Data Structure/ Data Modeling and Tools
 
@@ -36,56 +37,61 @@ Here is the Data Model that I have created in Power BI for the Visualization par
 
 ### 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
 
-![1 pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/86337bec-7870-4a37-8804-3abe205b7f5f)
+![2](https://github.com/user-attachments/assets/30e16a6e-1304-4724-929a-81ce8791986d)
 
 
 ### 2. What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields, unique_products_2020, unique_products_2021, percentage_chg
 
-![2 pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/763c2c4e-18d1-45f0-80ed-ba12bdf09950)
+![5](https://github.com/user-attachments/assets/c53ea2e4-974f-4ebb-a94a-d9c56290edc5)
 
 
 ### 3. Provide a report with all the unique product counts for each segment and sort them in descending order of product counts. The final output contains 2 fields, segment product_count
 
-![3 pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/8d3c2cd3-07d4-44c9-aa59-823a197f07df)
+![8](https://github.com/user-attachments/assets/92734880-d28d-4166-b230-6ed05f7dcec1)
+
 
 
 ### 4. Follow-up: Which segment had the most increase in unique products in 2021 vs 2020? The final output contains these fields, segment product_count_2020, product_count_2021, difference
 
-![4 pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/be3b7774-b353-412c-8d18-53683074bf27)
+![10](https://github.com/user-attachments/assets/7a8747fc-9599-45c5-9ca6-4632cbc165b2)
+
 
 
 ### 5. Get the products that have the highest and lowest manufacturing costs. The final output should contain these fields, product_code, product, manufacturing_cost
 
 
-![5 new pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/d33ad215-47ea-4e5a-b30c-4285279af6cf)
+![14](https://github.com/user-attachments/assets/fae29583-a563-4e01-ae46-3ce37ff5ffde)
+
 
 
 ### 6. Generate a report that contains the top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market. The final output contains these fields, customer_code, customer, average_discount_percentage
 
-![6 pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/1f03ade7-9a03-4a65-b640-a20955a2e462)
+![16](https://github.com/user-attachments/assets/7a6565d8-5f16-4ac9-978a-4558d7159714)
+
 
 
 ### 7. Get the complete report of the Gross sales amount for the customer “Atliq Exclusive” for each month. This analysis helps to get an idea of low and high-performing months and make strategic decisions. The final report contains these columns: Month, Year, Gross sales Amount
 
+![19](https://github.com/user-attachments/assets/3ee34ade-26dc-4290-b5f3-d7a022ac3551)
 
-![for 2020](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/644bc1ae-af83-4057-8432-bfa46952a86a)
-
-![for 2021](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/d080160f-84b3-47a5-ad7a-580e1ab42ebb)
 
 
 ### 8. In which quarter of 2020, got the maximum total_sold_quantity? The final output contains these fields sorted by the total_sold_quantity, --> Quarter, total_sold_quantity
 
-![8 pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/c0a19886-8d49-484c-93db-542d1087c072)
+![22](https://github.com/user-attachments/assets/b067d4b2-3faa-4914-811c-4c0433f72e68)
+
 
 
 ### 9. Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution? The final output contains these fields --> channel, gross_sales_mln, percentage
 
 
-![9 pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/d4e11a9c-5f05-4480-b81a-872a1d878085)
+![24](https://github.com/user-attachments/assets/adcbd935-df0c-475a-9c2c-03ed42fa8eaf)
+
 
 
 ### 10. Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these fields, division, product_code
 
-![10 pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/a8eca595-dd14-4751-89d3-3031c2200ef7)
+![27](https://github.com/user-attachments/assets/efc2e58d-a196-40ff-9224-ed922e96df69)
+
 
 ============================================================================================
