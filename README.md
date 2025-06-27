@@ -30,9 +30,9 @@ Here is the Data Model that I have created in Power BI for the Visualization par
 **Tools used -** 
 
 * I used My SQL to answer the questions 
-* and Power BI for visualization
+* Power BI for visualization
 
-## 10 Ad-Hoc Requests and Answers:
+## 10 Ad-Hoc Requests and Outputs:
 
 ### 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
 
